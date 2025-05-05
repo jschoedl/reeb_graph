@@ -1,3 +1,4 @@
+package com.github.jschoedl.reeb_graph;
 /******************************************************************************
  *  Topological similarity estimation for 3D models (triangle meshes)         *
  *    using multiresolutional Reeb graphs.                                    *
